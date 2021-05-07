@@ -1,5 +1,7 @@
 ### Hi there here is what I'm working on 👋
-
+DJI Tello Drone
+Computer Vision
+Machine Learning
 <!--
 **acosta3/acosta3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
