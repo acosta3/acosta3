@@ -1,5 +1,4 @@
 ### Hi there here is what I'm working on 👋
-DJI Tello Drone
 Computer Vision
 Machine Learning
 Web Devlopment
