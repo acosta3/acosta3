@@ -4,7 +4,7 @@
 - 💻 Currently learning Unreal Engine 5 and Game Development
 - 📚 A huge comic book fan: Batman! 🦇  
 - 🏀 I follow basketball and love playing pickup games.  
-- ♟️ I enjoy a bit of chess in my free time.  
+- ♟️ I enjoy a bit of chess in my free time.  [Chess.com](https://www.chess.com/member/lolprostar)
 
 
 ---
