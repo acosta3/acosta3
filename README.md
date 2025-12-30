@@ -13,3 +13,4 @@
 ### 🚀 Connect with Me  
 - 🏗️ Check out my projects on [GitHub](https://github.com/acosta3)  
 - 💼 Find me on [LinkedIn](https://www.linkedin.com/in/anthony-cyle-acosta)  
+![GamerSloth](https://github.com/user-attachments/assets/10f41454-b60e-41d7-b4b3-d26175e6567b)
