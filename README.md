@@ -14,4 +14,4 @@
 - 🏗️ Check out my projects on [GitHub](https://github.com/acosta3)  
 - 💼 Find me on [LinkedIn](https://www.linkedin.com/in/anthony-cyle-acosta)
 
-![GamerSloth](https://github.com/user-attachments/assets/10f41454-b60e-41d7-b4b3-d26175e6567b)
+<img width="1024" height="1024" alt="Sloth" src="https://github.com/user-attachments/assets/b5309db0-8885-451c-b3ee-b13f69146fa9" />
