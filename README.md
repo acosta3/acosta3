@@ -10,10 +10,6 @@
 
 # 🚀 MyProjects
 
-> High-Performance Systems & Game Development Portfolio
-
----
-
 ## 🎮 High-Performance Swarm Simulation & Engine System
 **C++ • Custom Engine Framework**
 
@@ -25,7 +21,7 @@
 ## 🧗 Unreal Engine 5 C++ Climbing System Plugin
 **C++ • Unreal Engine 5.6**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=bDSDSq6FjFE) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/acosta3/Climbing-System-Plugin)
 
 
 ---
@@ -33,7 +29,7 @@
 ## ⚽ Unreal Engine Split Screen Soccer Game
 **Blueprints • Unreal Engine 5.6**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OdJGvtuISig) [![GitHub](https://github.com/acosta3/FootBall)
 
 
 ---
@@ -41,7 +37,7 @@
 ## 🏀 Basketball Jump Shot Analysis System
 **Python • YOLOv8 • OpenCV • PyTorch**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vVuda5iy_m4) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ronit4619/Capstone_4OI6M)
 
 ---
 
