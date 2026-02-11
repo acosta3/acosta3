@@ -4,7 +4,7 @@
 
 # 👋 Hey there, I'm Anthony!
 
-### 🎮 Game Developer | C++ Enthusiast | Systems Architect
+### 🎮 Game Developer | C++ Enthusiast | Software Developer
 
 <br>
 
