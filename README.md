@@ -29,7 +29,7 @@
 ## ⚽ Unreal Engine Split Screen Soccer Game
 **Blueprints • Unreal Engine 5.6**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OdJGvtuISig) [![GitHub](https://github.com/acosta3/FootBall)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OdJGvtuISig) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/acosta3/FootBall)
 
 
 ---
