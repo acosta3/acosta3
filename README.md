@@ -12,7 +12,7 @@
 
 ## 🎮 High-Performance Swarm Simulation & Engine System
 **C++ • Custom Engine Framework**
-
+*What happens when 200,000 bugs decide to party? Spoiler: your CPU survives (barely)*
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=4R8rz6CtQNw) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/acosta3/BUG-SWARM)
 
 
@@ -21,6 +21,7 @@
 ## 🧗 Unreal Engine 5 C++ Climbing System Plugin
 **C++ • Unreal Engine 5.6**
 
+*Climb like Zelda*
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=bDSDSq6FjFE) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/acosta3/Climbing-System-Plugin)
 
 
@@ -29,6 +30,7 @@
 ## ⚽ Unreal Engine Split Screen Soccer Game
 **Blueprints • Unreal Engine 5.6**
 
+*Goal Goal*
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=OdJGvtuISig) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/acosta3/FootBall)
 
 
@@ -37,6 +39,7 @@
 ## 🏀 Basketball Jump Shot Analysis System
 **Python • YOLOv8 • OpenCV • PyTorch**
 
+*Is your jumpshot broken, check this out.*
 [![YouTube](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=vVuda5iy_m4) [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/ronit4619/Capstone_4OI6M)
 
 ---
