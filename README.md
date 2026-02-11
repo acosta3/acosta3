@@ -15,7 +15,7 @@
 
 
 ## 🚀 For Recruiters ****
-Engine Related Project Bug SWARM: [YouTube.com](https://www.youtube.com/watch?v=4R8rz6CtQNw)
+"Real-time swarm simulation of 200K AI entities in C++ with spatial partitioning, cache-optimized SoA architecture, and deterministic physics" [YouTube.com](https://www.youtube.com/watch?v=4R8rz6CtQNw) [Repo]()
 
 
 
