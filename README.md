@@ -97,7 +97,6 @@ motto: "Building unforgettable gameplay experiences, one line of code at a time"
 
 ## 🦸‍♂️ A Little More About Me
 
-<img width="400" alt="Me and what I love" src="https://github.com/user-attachments/assets/b5309db0-8885-451c-b3ee-b13f69146fa9" />
 
 <br><br>
 
