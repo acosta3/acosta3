@@ -9,9 +9,6 @@
 
 
 <div align="center">
-
-# 🚀 MyProjects
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Portfolio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
 </div>
