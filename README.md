@@ -103,7 +103,6 @@ motto: "Building unforgettable gameplay experiences, one line of code at a time"
 
 **Comics** 📚 | **Basketball** 🏀 | **Chess** ♟️ | **Code** 💻
 
-*Living the Batman philosophy: "It's not who I am underneath, but what I do that defines me."*
 
 <br>
 
