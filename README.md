@@ -84,7 +84,7 @@ motto: "Building unforgettable gameplay experiences, one line of code at a time"
 
 **`Python`** • **`YOLOv8`** • **`OpenCV`** • **`PyTorch`**
 
-### *Is your jumpshot broken? Check this out.*
+### *Is your jumpshot broken? Check this out (For AI and Computer Vision Enthusiast).*
 
 <br>
 
