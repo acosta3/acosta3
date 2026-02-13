@@ -78,7 +78,7 @@
 <br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=vVuda5iy_m4) 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronit4619/Capstone_4OI6M)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronit4619/Capstone_4OI6)
 
 </div>
 
