@@ -16,17 +16,6 @@
 
 ---
 
-## 📌 About Me
-```yaml
-currently_learning: ["Unreal Engine 5", "Game Development", "Advanced C++"]
-interests: ["Batman Comics 🦇", "Basketball 🏀", "Chess ♟️"]
-motto: "Building unforgettable gameplay experiences, one line of code at a time"
-```
-
-💻 I'm a game developer passionate about **high-performance systems** and **real-time simulations**. When I'm not coding, you'll find me reading Batman comics, playing pickup basketball, or plotting my next chess move!
-
----
-
 <div align="center">
 
 # 🚀 Featured Projects
